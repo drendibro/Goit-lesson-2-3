@@ -172,8 +172,9 @@ button{
     }
 /* ---------------------MAIN PHOTO---------------------------- */
     .photo-list{
-        display: flex;
-        justify-content: wrap;
+        display: flex;  
+        flex-wrap: wrap; 
     }
+   
 
 
